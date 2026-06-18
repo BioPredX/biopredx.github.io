@@ -10,7 +10,7 @@ Las herramientas desarrolladas por BioPredX **se pueden utilizar como SaaS y/o o
 - ## [Diseño racional de proteínas](/servicios.html#diseño-racional-de-proteínas)
 Predicción de mutaciones para mejorar estabilidad, funcionalidad y rendimiento proteico. [Estabiliza tus proteínas con Protposer](/servicios.html#protposer)
 
-- ## [Evaluación genética](/servicios.html#diagnóstico-genético)
+- ## [Evaluación genética](/servicios.html#evaluación-genética)
 Análisis avanzado de variantes genéticas con contexto biológico y estructural. [Acelera el diagnóstico genético con Globalpred](/servicios.html#globalpred)
 
 - ## [IA científica explicable](/servicios.html#ia-científica-explicable)
