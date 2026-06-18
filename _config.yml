@@ -3,4 +3,4 @@ description: Smarter biology starts here.
 show_downloads: true
 google_analytics: G-5SFW2WVHKT
 theme: jekyll-theme-cayman
-baseurl: www.biopredx.com
+baseurl: /
