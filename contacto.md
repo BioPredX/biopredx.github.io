@@ -17,7 +17,7 @@ Biología computacional y biotecnología predictiva
 
 📧 [info@biopredx.com](mailto:info@biopredx.com)
 
-🌐 [biopredx.com](biopredx.com)
+🌐 [www.biopredx.com](https://www.biopredx.com)
 
  
 ## Contacte con nosotros
