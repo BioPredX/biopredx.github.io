@@ -51,11 +51,11 @@ La plataforma proporciona:
 
 **Acerca de Protposer**
 
-[Protposer: The web server that readily proposes protein stabilizing mutations with high PPV](https://10.1016/j.csbj.2022.05.008)
+[Protposer: The web server that readily proposes protein stabilizing mutations with high PPV](https://doi.org/10.1016/j.csbj.2022.05.008)
 
-[Protein thermostabilization with Protposer: Pushing the stability limits and folding reversibility of a highly-stabilized apoflavodoxin](https://10.1016/j.ijbiomac.2025.148333)
+[Protein thermostabilization with Protposer: Pushing the stability limits and folding reversibility of a highly-stabilized apoflavodoxin](https://doi.org/10.1016/j.ijbiomac.2025.148333)
 
-[Domain-guided engineering of a thermoresistant Vip3A toxin for enhanced functional robustness](https://10.1038/s41598-026-47865-0)
+[Domain-guided engineering of a thermoresistant Vip3A toxin for enhanced functional robustness](https://doi.org/10.1038/s41598-026-47865-0)
 
 
 ## Evaluación genética
@@ -97,15 +97,15 @@ Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más i
 
 **Acerca de Globalpred**
 
-[PirePred: An Accurate Online Consensus Tool to Interpret Newborn Screening-Related Genetic Variants in Structural Context](https://10.1016/j.jmoldx.2022.01.005)
+[PirePred: An Accurate Online Consensus Tool to Interpret Newborn Screening-Related Genetic Variants in Structural Context](https://doi.org/10.1016/j.jmoldx.2022.01.005)
 
-[Choosing Variant Interpretation Tools for Clinical Applications: Context Matters](https://10.3390/ijms241411872)
+[Choosing Variant Interpretation Tools for Clinical Applications: Context Matters](https://doi.org/10.3390/ijms241411872)
 
-[Towards a New, Endophenotype-Based Strategy for Pathogenicity Prediction in BRCA1 and BRCA2: In Silico Modeling of the Outcome of HDR/SGE Assays for Missense Variants](https://10.3390/ijms22126226)
+[Towards a New, Endophenotype-Based Strategy for Pathogenicity Prediction in BRCA1 and BRCA2: In Silico Modeling of the Outcome of HDR/SGE Assays for Missense Variants](https://doi.org/10.3390/ijms22126226)
 
-[BRCA1- and BRCA2-specific in silico tools for variant interpretation in the CAGI 5 ENIGMA challenge](https://10.1002/humu.23802)
+[BRCA1- and BRCA2-specific in silico tools for variant interpretation in the CAGI 5 ENIGMA challenge](https://doi.org/10.1002/humu.23802)
 
-[Structural and Computational Characterization of Disease-Related Mutations Involved in Protein-Protein Interfaces](https://10.3390/ijms20071583)
+[Structural and Computational Characterization of Disease-Related Mutations Involved in Protein-Protein Interfaces](https://doi.org/10.3390/ijms20071583)
 
 ## IA científica explicable
 
