@@ -23,11 +23,11 @@ BioPredX es una spin-off de la Universidad de Zaragoza y su equipo fundador proc
 
 De izquierda a derecha, BioPredX está compuesta por:
 
-Ana Flores Charlez, Asesora científica
+- Ana Flores Charlez, Asesora científica
 
-Helena García Cebollada, CEO
+- Helena García Cebollada, CEO
 
-Javier Sancho Sanz, Responsable de I+D
+- Javier Sancho Sanz, Responsable de I+D
 
-Beatriz Gómez Barrera, Desarrollo de negocio y partnerships
+- Beatriz Gómez Barrera, Desarrollo de negocio y partnerships
 
