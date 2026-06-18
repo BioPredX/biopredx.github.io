@@ -45,7 +45,7 @@ La plataforma proporciona:
 - **Maximización del ROI:** Disminuye drásticamente los costes de I+D.
 - **Aceleración Comercial:** Acorta de años a meses el desarrollo de nuevos productos biotecnológicos
 
-¿Quieres optimizar proteínas? Solicita acceso a nuestra Demo SaaS en [info@biopredx.com](info@biopredx.com)
+¿Quieres optimizar proteínas? Solicita acceso a nuestra Demo SaaS en [info@biopredx.com](mailto:info@biopredx.com)
 
 
 
@@ -91,7 +91,7 @@ Globalpred se comercializa como licencia anual para hospitales públicos y priva
 ![Globalpred](/assets/image/Globalpred.JPG)
 
 
-Contacta con nosotros en [info@biopredx.com](info@biopredx.com) para para más información o para iniciar un programa piloto.
+Contacta con nosotros en [info@biopredx.com](mailto:info@biopredx.com) para para más información o para iniciar un programa piloto.
 
 
 
