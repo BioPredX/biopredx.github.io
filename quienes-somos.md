@@ -19,7 +19,7 @@ Somos un equipo de profesionales expertos en proteínas, biocomputación y trans
 
 BioPredX es una spin-off de la Universidad de Zaragoza y su equipo fundador procede de la misma, donde ha adquirido una sólida base científica y amplia experiencia en el ámbito de la I+D+i.
 
-![Foto del equipo](/assets/image/Escaleras.jpg)
+![Foto del equipo](/assets/image/Escaleras.png)
 
 De izquierda a derecha, BioPredX está compuesta por:
 
