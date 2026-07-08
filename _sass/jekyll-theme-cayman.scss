@@ -53,7 +53,7 @@ body {
 }
 
 a {
-  color: #F7E7CD;
+  color: #009BD0;
   text-decoration: none;
 
   &:hover {
@@ -130,6 +130,15 @@ a {
     width: 75%; /*Optional*/
     table-layout: auto; /*Optional*/
     border-spacing: 10px; /*Optional*/
+
+    a {
+  color: #F7E7CD;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: #F2D9B0;
+  }
   }
   .Column {
     display: table-cell;
