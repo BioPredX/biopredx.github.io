@@ -1,6 +1,6 @@
 ---
 layout: default_en
-title: Home
+title: Contact
 ---
 # Contact us
 
