@@ -10,7 +10,7 @@ BioPredX solutions are available as **Software as a Service (SaaS)** or can be d
 - ## [Rational protein design](/en/services.html#rational-protein-design)
 Mutation prediction to enhance protein stability, functionality, and yield. [Stabilise your proteins with Protposer](/en/services.html#protposer)
 
-- ## [Evaluación genética](/en/services.html#genetic-assessment)
+- ## [Genetic assessment](/en/services.html#genetic-assessment)
 Advanced interpretation of genetic variants within their biological and structural context. [Accelerate genomic interpretation with Globalpred.](/en/services.html#globalpred)
 
 - ## [Explainable AI for life sciences](/en/services.html#explainable-ai-for-life-sciences)
