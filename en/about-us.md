@@ -12,7 +12,7 @@ We are certain predictive biology will become one of the fundamental drivers of 
 
 ![Mission, vision and values](/assets/image/Mission.JPG)
  
-## El equipo
+## Our team
 
 We are a team of experts in protein science, computational biology, and technology transfer, transforming fundamental science into practical solutions to deliver value to companies and clinicians.
 
