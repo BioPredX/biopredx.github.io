@@ -3,7 +3,7 @@ layout: default_en
 title: Services
 ---
 
-# Servicios
+# Services
 
 BioPredX develops technological platforms that evaluate the biological properties of novel biomolecules before experimental validation.
 
