@@ -2,7 +2,7 @@
 layout: default_en
 title: Home
 ---
-![Home image](/assets/image/Home_es.JPG)
+![Home image](/assets/image/Home_en.JPG)
 **BioPredX develops predictive software that evaluates the key properties of biomolecules to facilitate the design of improved variants or the identification of optimal candidates for the healthcare, agriculture and industrial sectors.** Our main goal is to help companies, healthcare professionals and scientists make faster, better-informed decisions in biotechnology, biomedicine and precision medicine. Our platforms combine structural biology, machine learning and large-scale biological data analysis to optimise biomolecular design and interpret genetic variants. 
 
 BioPredX solutions are available as **Software as a Service (SaaS)** or can be deployed **on-premise**, providing fast, secure and flexible access.
