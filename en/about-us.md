@@ -18,14 +18,4 @@ We are a team of experts in protein science, computational biology, and technolo
 
 BioPredX is a spin-off of the University of Zaragoza. Our founding team builds on more than two decades of internationally recognised research and combines scientific excellence with a strong commitment to innovation and technology transfer.
 
-![Foto del equipo](/assets/image/Escaleras.png)
-
-From left to right:
-
-- Ana Flores Charlez, Scientific Advisor
-
-- Helena García Cebollada, CEO
-
-- Javier Sancho Sanz, Head of Research & Development
-
-- Beatriz Gómez Barrera, Business Development & Partnerships
+![Our team](/assets/image/Team.JPG)
