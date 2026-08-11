@@ -402,6 +402,31 @@ a {
   @include small {
     font-size: 0.9rem;
   }
+  .Row {
+    align: center;
+    margin: 0 auto;
+    display: table;
+    width: 75%; /*Optional*/
+    table-layout: auto; /*Optional*/
+    border-spacing: 10px; /*Optional*/
+
+    a {
+  color: #F7E7CD;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    color: #F2D9B0;
+    }
+  }
+  }
+  .Column {
+    display: table-cell;
+    background-color: #009BD0; /*Optional*/
+    font-size:2.2vw;
+    vertical-align: middle;
+  }
+}
 }
 
 .site-footer-owner {
