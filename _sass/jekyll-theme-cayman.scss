@@ -402,6 +402,7 @@ a {
   @include small {
     font-size: 0.9rem;
   }
+  
   .Row {
     align: center;
     margin: 0 auto;
@@ -426,7 +427,6 @@ a {
     font-size:2.2vw;
     vertical-align: middle;
   }
-}
 }
 
 .site-footer-owner {
