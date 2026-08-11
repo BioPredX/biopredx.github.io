@@ -40,9 +40,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
-    </main>
-    
-    <footer class="site-footer">
+
+      <footer class="site-footer">
         <p class="Row" align center>
       {% for item in site.data.nav_footer %}
         <div class="Column"><a href="{{ item.link }}"{% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}{% if fullurl == page.url %}class="current"{% endif %}>{{ item.name }}</a></div>
@@ -53,6 +52,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         {% endif %}
         <span class="site-footer-credits">Esta página fue creada usando <a href="https://pages.github.com">GitHub Pages</a>, basada en el tema <a href="https://pages-themes.github.io/cayman/">Cayman</a>.</span>
       </footer>
+    </main>
+    
+    
     
   </body>
 </html>
