@@ -411,6 +411,7 @@ a {
     width: 75%; /*Optional*/
     table-layout: auto; /*Optional*/
     border-spacing: 10px; /*Optional*/
+    column-gap: 40px;
 
     a {
   color: #F7E7CD;
@@ -427,7 +428,6 @@ a {
     background-color: #C9F1FF; /*Optional*/
     font-size:1vw;
     vertical-align: middle;
-    column-gap: 40px;
   }
 }
 
