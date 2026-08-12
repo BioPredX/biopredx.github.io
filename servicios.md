@@ -62,7 +62,7 @@ La plataforma proporciona:
 
 Las tecnologías de secuenciación de nueva generación (NGS) permiten detectar variantes a nivel del genoma completo de forma asequible. Sin embargo, para determinar su relevancia médica hacen falta herramientas de interpretación más fiables.
 
-BioPredX ha desarrollado Globalpred, una plataforma de ayuda al diagnóstico genético de variantes de un solo nucleótido (SNVs) que proporciona una capacidad predictiva superior a la de plataformas análogas.
+BioPredX está desarrollando Globalpred, una plataforma de ayuda al diagnóstico genético de variantes de un solo nucleótido (SNVs) que proporciona una capacidad predictiva superior a la de plataformas análogas.
 
 Globalpred apoya al personal clínico a evaluar la patogenicidad de las variantes y revela sus posibles consecuencias moleculares, proporcionando un informe intuitivo de forma inmediata. Globalpred puede ejecutarse en on-premise o en entorno Cloud
 
@@ -78,15 +78,15 @@ Globalpred apoya al personal clínico a evaluar la patogenicidad de las variante
  
 ### Globalpred
 
-Globalpred es nuestra plataforma para la interpretación de variantes genéticas humanas. Facilita el diagnóstico temprano de enfermedades genéticas y la interpretación de mutaciones somáticas, permitiendo personalizar los tratamientos.
+Globalpred es nuestra plataforma para la interpretación de variantes genéticas humanas. Facilita el diagnóstico temprano de enfermedades genéticas y la interpretación de mutaciones somáticas, permitiendo comprender la personalización los tratamientos. Actualmente se encuentra en fase de desarrollo y validación, por lo que no está destinado por el momento al diagnóstico clínico ni a decisiones terapéuticas.
 
-Globalpred se comercializa como licencia anual para hospitales públicos y privados, clínicas de diagnóstico molecular y profesionales de la salud que requieran de un diagnóstico genético para mejorar la calidad de vida de sus pacientes.
+Una vez validado y certificado, Globalpred se comercializará como licencia anual para hospitales públicos y privados, clínicas de diagnóstico molecular y profesionales de la salud que requieran de un diagnóstico genético para mejorar la calidad de vida de sus pacientes.
 
-**Ventajas de Globalpred:**
+**¿Por qué desarrollar Globalpred?**
 
--	**Soporte Clínico de Alta Fiabilidad:** Proporciona informes automáticos e intuitivos, con excelentes estadísticos, listos para la toma de decisiones médicas.
--	**Flexibilidad y Seguridad de Datos:** Disponible en entorno Cloud o despliegue On-Premise, garantizando el cumplimiento estricto de las normativas de privacidad de datos médicos (RGPD).
--	**Eficiencia de Costes:** Reduce el tiempo de análisis por paciente y contribuye a acelerar los diagnósticos, disminuyendo el gasto global en salud.
+-	**Soporte Clínico de Alta Fiabilidad:** Permite obtener informes automáticos e intuitivos, con excelentes estadísticos, que apoyarán la toma de decisiones médicas.
+-	**Flexibilidad y Seguridad de Datos:** Disponible en entorno Cloud o despliegue on premise, garantizando el cumplimiento estricto de las normativas de privacidad de datos médicos (RGPD).
+-	**Eficiencia de Costes:** Permite analizar todas las variantes genéticas de un paciente, contribuyendo a diagnósticos tempranos, disminuyendo el gasto global en salud.
 
 ![Globalpred](/assets/image/Globalpred.JPG)
 
