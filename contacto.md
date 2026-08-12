@@ -37,3 +37,5 @@ Damos la bienvenida a consultas de:
 Para información sobre productos, licencias, colaboraciones o soporte técnico, puede ponerse en contacto con nuestro equipo y le responderemos lo antes posible.
 
 📧 [info@biopredx.com](mailto:info@biopredx.com)
+
+No envíe datos de pacientes, salud o genética por email, ni otro tipo de datos sensibles. En caso de necesitar transferir datos de este tipo, póngase en contacto con nosotros y se establecerá un método seguro y privado para su transferencia.
