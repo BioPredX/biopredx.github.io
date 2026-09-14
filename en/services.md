@@ -30,7 +30,7 @@ Protposer is our protein stabilisation platform. It proposes and prioritises spe
 Unlike conventional approaches that systematically evaluate all possible mutations of a protein, resulting in thousands of evaluations, Protposer identifies structurally vulnerable regions and proposes targeted stabilising
 mutations with a high probability of success.
 
-Protposer is available either as an annual licence or through pay-per-use licences.
+Protposer is available either as an annual licence or through pay-per-use licences. Academic non-profit licenses are also available, free for a limited time.
 
 The platform provides:
 
