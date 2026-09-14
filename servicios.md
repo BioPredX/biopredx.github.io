@@ -28,7 +28,7 @@ Protposer es nuestra plataforma para estabilización de proteínas. Propone muta
 
 A diferencia de los enfoques tradicionales basados en evaluar todas las mutaciones posibles, Protposer identifica regiones estructuralmente vulnerables y propone mutaciones estabilizantes dirigidas.
 
-Protposer se comercializa como licencia anual o como licencia de 5 usos.
+Protposer se comercializa como licencia anual o como licencia de 5 usos. También hay licencias académicas sin ánimo de lucro, gratuitas durante un tiempo limitado.
 
 La plataforma proporciona:
 
